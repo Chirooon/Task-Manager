@@ -22,9 +22,11 @@ Task Manager is a sleek, user-friendly desktop application that helps you organi
 
 2. Install the required dependencies with help for requriments.txt:
 
-**pip install ttkbootstrap**
+ ``` Batch
+ pip install ttkbootstrap
 
-**pip install tk**
+ pip install tk
+ ```
 
 
 3. Run the application:
@@ -33,11 +35,6 @@ python Task-Manager.py
 ```
 
 
+</a> Have questions or suggestions? Click the Discord logo to message me!
 
-
-
-<a href="https://discord.com/users/792468382083448853" target="_blank"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord Logo" width="40" height="40">
-
-
-
-</a> Have questions or suggestions? Click the Discord logo above to message me!
+<a href="https://discord.com/users/792468382083448853" target="_blank"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord Logo" width="50" height="50">
