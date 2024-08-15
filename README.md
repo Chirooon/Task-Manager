@@ -18,14 +18,16 @@ Task Manager is a sleek, user-friendly desktop application that helps you organi
 
 ## How to Use
 
-1. Install the required dependencies:
+1. Download Task-Manager.py and requriments.txt
+
+2. Install the required dependencies with help for requriments.txt:
 
 **pip install ttkbootstrap**
 
 **pip install tk**
 
 
-2. Run the application:
+3. Run the application:
 ```python
 python Task-Manager.py
 ```
